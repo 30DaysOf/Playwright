@@ -23,10 +23,10 @@ const config = {
 
   // CONIFIG; GitHub Pages
   url: 'https://30DaysOf.github.io',
-  baseUrl: '/template/',  // template/
+  baseUrl: '/playwright/',  // template/
   favicon: 'img/favicon.ico',
-  organizationName: 'f30DaysOf', 
-  projectName: 'template', 
+  organizationName: '30DaysOf', 
+  projectName: 'playwright', 
   deploymentBranch: 'gh-pages',
 
   // CONFIG: Early detection for site health
@@ -129,7 +129,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/30DaysOf/template',
+            href: 'https://github.com/30DaysOf/playwright',
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub repository',
