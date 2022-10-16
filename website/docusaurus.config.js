@@ -22,8 +22,8 @@ const config = {
   tagline: 'Plan Roadmaps - Document Progress',
 
   // CONIFIG; GitHub Pages
-  url: 'https://30DaysOf.github.io',
-  baseUrl: '/playwright/',  // template/
+  url: 'https://playwright.fyi',
+  baseUrl: '/',  // template/
   favicon: 'img/favicon.ico',
   organizationName: '30DaysOf', 
   projectName: 'playwright', 
